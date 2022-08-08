@@ -1,6 +1,6 @@
 *** Esconde tus Zanahorias ***
 
-Simpático juego de texto programado en Rubyque tiene como objetivo atrapar a los conejos escondidos, antes que ellos se coman tus zanahorias.
+Simpático juego de texto programado en Ruby que tiene como objetivo atrapar a los conejos escondidos, antes que ellos se coman tus zanahorias.
 
 Para jugarlo por la consola idealmente a pantalla completa
 
