@@ -19,4 +19,4 @@ El jugador ingresa manualmente los terrenos en un array llamado (ubicaciones_jug
 El ataque: el sistema compara la elección del jugador vs la ubicación del cpu usando (array.include?(elección)). Si detecta que está incluido, toma ese dato y lo borra de la ubicación, dejando el array de ubicación con un elemento menos. Cuando el array de ubicación queda en cero, gana el oponte. 
 De la misma forma, desde el punto de vista de la cpu, a diferencia que la ubicación la elige aleatoriamente. Para evitar que repita las mismas elecciones, cada elección se guarda en un array llamado (recuerdo_cpu). Si encuentra un valor incluido allí (repetido), volverá a elegir aleatoreamente.
 
-Programado y Creado por Carlos Toledo - 07 de agosto del 20022
+Programado y Creado por Carlos Toledo - 07 de agosto del 2022
